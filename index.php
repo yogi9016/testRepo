@@ -1,7 +1,8 @@
 <?php
 	function name(){
-		$test='';
-		$tesd='';
-		sad
+
+		$check=fasle;
+		
+
 	}
 ?>
