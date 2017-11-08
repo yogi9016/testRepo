@@ -4,9 +4,9 @@
 		$check=fasle;
 		
 		if($check==true){
-			return false;
+			$check true;
 
 		}
-		return true;
+		return $check;
 	}
 ?>
