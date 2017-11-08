@@ -1,6 +1,6 @@
 <?php
 	function name(){
-		$test='';
+		$check=fasle;
 		
 	}
 ?>
